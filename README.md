@@ -1,6 +1,6 @@
-# CO Lab Framework - 2025
+# CO Lab Framework - 2026
 
-Welcome to the official Lab Framework for the 2024-2025 edition of the **Computer Organization** course at Vrije Universiteit Amsterdam.
+Welcome to the official Lab Framework for the 2025-2026 edition of the **Computer Organization** course at Vrije Universiteit Amsterdam.
 
 For all information about the course, the assignments, or the Lab in general, please refer to the [Canvas page](https://canvas.vu.nl/courses/81559) or the official [Lab Manual](https://computerscienceeducation.gitbook.io/co-lab-manual).
 This document serves as a technical documentation for the Lab Framework itself.
