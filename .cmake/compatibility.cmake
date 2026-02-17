@@ -9,7 +9,7 @@ if (APPLE)
 endif ()
 
 # ARM WSL/LINUX Support
-if(NOT APPLE AND NOT WIN32 AND UNIX AND (CMAKE_SYSTEM_PROCESSOR MATCHES "aarch64|arm64"))
+if(NOT APPLE AND UNIX AND (CMAKE_SYSTEM_PROCESSOR MATCHES "aarch64|arm64"))
     message(STATUS "Detected ARM64 Linux, Cross-compiling to x86_64")
 
     set(X86_TARGET "--target=x86_64-unknown-linux-gnu")
